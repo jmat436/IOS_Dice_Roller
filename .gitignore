@@ -1,0 +1,11 @@
+# Xcode
+build/
+*.xcuserstate
+*.xcuserdata
+*.xccheckout
+*.xcuserdatad
+*.xcscheme
+*.xcschemes
+*.xcworkspace
+*.xcodeproj/xcuserdata/
+*.xcodeproj/xcuserdata/
